@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17471" started-at="2018-08-16T03:41:24Z" finished-at="2018-08-16T03:41:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17471" started-at="2018-08-16T03:41:24Z" finished-at="2018-08-16T03:41:42Z">
+      <class name="testSuites.TestWithPOM">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testSuites.TestWithPOM@45820e51]" name="setUp" is-config="true" duration-ms="8052" started-at="2018-08-16T03:41:24Z" finished-at="2018-08-16T03:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:testSuites.TestWithPOM@45820e51]" name="testLogin" duration-ms="3370" started-at="2018-08-16T03:41:32Z" finished-at="2018-08-16T03:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="quitPage()[pri:0, instance:testSuites.TestWithPOM@45820e51]" name="quitPage" is-config="true" duration-ms="6024" started-at="2018-08-16T03:41:36Z" finished-at="2018-08-16T03:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitPage -->
+      </class> <!-- testSuites.TestWithPOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
